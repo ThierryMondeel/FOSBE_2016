@@ -133,11 +133,11 @@ for MTHFR in range(2):
                 if FDH == 0:
                     pass # keep the default FDH7
                 elif FDH == 1:
-                    model.reactions.FDH7.upper_bound = 0; model.reactions.FDH7.lower_bound = 0; 
+                    model.reactions.FDH7.lower_bound = 0; model.reactions.FDH7.upper_bound = 0; 
                     model.reactions.FDHH2.lower_bound = 0; model.reactions.FDHH2.upper_bound = 0
                     model.reactions.FDHFDNADPH.lower_bound = -1000; model.reactions.FDHFDNADPH.upper_bound = 1000
                 else:
-                    model.reactions.FDH7.upper_bound = 0; model.reactions.FDH7.lower_bound = 0; 
+                    model.reactions.FDH7.lower_bound = 0; model.reactions.FDH7.upper_bound = 0; 
                     model.reactions.FDHH2.lower_bound = -1000; model.reactions.FDHH2.upper_bound = 1000
                     model.reactions.FDHFDNADPH.lower_bound = 0; model.reactions.FDHFDNADPH.upper_bound = 0 
 
