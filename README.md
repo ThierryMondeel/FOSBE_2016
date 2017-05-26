@@ -1,4 +1,4 @@
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/thierrymondeel/fosbe_2016)
+[![Binder](http://beta.mybinder.org/badge.svg)](http://mybinder.org:/repo/thierrymondeel/fosbe_2016)
 
 # FOSBE_2016
 Repository with code pertaining to the paper "Maps for when the living gets tough: Maneuvering through a hostile energy landscape" for the FOSBE 2016 conference.
