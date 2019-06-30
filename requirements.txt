@@ -1,4 +1,3 @@
-cameo
 cobra
 lxml
 escher
