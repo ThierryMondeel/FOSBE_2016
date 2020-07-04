@@ -28,7 +28,7 @@ svg.escher-svg .reaction-label {
   text-rendering: optimizelegibility;
 }
 svg.escher-svg .node-label {
-  font-size: 25px; /* This used to be 20px */
+  font-size: 30px; /* This used to be 20px */
 }
 svg.escher-svg .gene-label {
   font-size: 18px;
